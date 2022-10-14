@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T02:29:40.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.42" version="20.4.0" etag="u0v89z_t7HxhEWrHz3gK" type="github"><diagram id="QlIfT7ozU1M1rUmk9eyl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-14T03:21:39.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.42" etag="9EeqhLxqPMuyux1a14p1" version="20.4.0" type="github">
+  <diagram id="QlIfT7ozU1M1rUmk9eyl" name="第 1 页">
+    <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fqVgFxAnm44XaSQOqffT-6" value="相机" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="280" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqVgFxAnm44XaSQOqffT-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="400" as="sourcePoint" />
+            <mxPoint x="460" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fqVgFxAnm44XaSQOqffT-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="400" as="sourcePoint" />
+            <mxPoint x="170" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fqVgFxAnm44XaSQOqffT-14" value="货物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="368" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqVgFxAnm44XaSQOqffT-15" value="相机" style="whiteSpace=wrap;html=1;aspect=fixed;rotation=5;" vertex="1" parent="1">
+          <mxGeometry x="180" y="490" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqVgFxAnm44XaSQOqffT-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="620" as="sourcePoint" />
+            <mxPoint x="450" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fqVgFxAnm44XaSQOqffT-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="165" y="620" as="sourcePoint" />
+            <mxPoint x="180" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fqVgFxAnm44XaSQOqffT-19" value="货物" style="rounded=0;whiteSpace=wrap;html=1;rotation=5;" vertex="1" parent="1">
+          <mxGeometry x="300" y="600" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqVgFxAnm44XaSQOqffT-25" value="货架，已知的固定高度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="580" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqVgFxAnm44XaSQOqffT-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="720" as="sourcePoint" />
+            <mxPoint x="830" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fqVgFxAnm44XaSQOqffT-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="640" as="sourcePoint" />
+            <mxPoint x="640" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fqVgFxAnm44XaSQOqffT-31" value="地面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="710" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fqVgFxAnm44XaSQOqffT-32" value="重型货物会导致拆车叉臂向前倾覆3-5°" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="500" width="200" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="fqVgFxAnm44XaSQOqffT-34" value="精准识别货架的高度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="650" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
